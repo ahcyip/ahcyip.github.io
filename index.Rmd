@@ -1,0 +1,52 @@
+---
+title: "Arthur Yip"
+image: "ay.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/arthurhcyip"
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GoogleScholar
+    url: "http://scholar.google.com/citations?user=ulekXAoAAAAJ"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-5610-6507"
+  - label: StackOverflow
+    url: "http://"
+  - label: GitHub
+    url: "https://github.com/ahcyip"
+  - label: Email
+    url: "mailto:arthurhc.yip@gmail.com"
+  - label: Resume
+    url: "http://github.com/ahcyip/resume.pdf"
+  - label: CV
+    url: "http://github.com/ahcyip/cv.pdf"
+
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Arthur Yip analyses and simulates transportation and energy systems at the National Renewable Energy Laboratory (NREL) as a Postdoctoral Researcher. He focuses on modelling consumer choice, engineering design, and government policy decisions in transportation energy and automotive markets. His research typically fits in the emergent field of macro-energy systems.
+
+## Education
+
+**Carnegie Mellon University** | Pittsburgh, PA
+
+Ph.D. in Engineering & Public Policy | 2015 - 2020
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Sc.M. in Technology & Policy (Engineering Systems) | 2012 - 2014
+
+**University of Waterloo** | Waterloo, ON
+
+B.A.Sc. in Chemical Engineering (Co-op) | 2007 - 2012
+
+
+## Experience
+
+**National Renewable Energy Laboratory** | Postdoctoral Researcher | 2020 - present
+
+**Breakthrough Institute** | Energy Systems Engineer | 2014 - 2015
+
